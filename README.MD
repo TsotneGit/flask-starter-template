@@ -1,1 +1,1 @@
-"# Flask starter template" 
+# Flask starter template
